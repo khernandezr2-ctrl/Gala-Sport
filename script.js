@@ -14,7 +14,7 @@ const products = [
         category: "colombia",
         price: 100000,
         image: "https://698522d3d75ce97092feb515.imgix.net/1.jpeg",
-        description: "Camiseta oficial de visitante, diseño moderno con detalles únicos."
+        description: "Camiseta oficial de Colombia, diseño local con colores tradicionales amarillo, azul y rojo."
     },
     {
         id: 3,
@@ -38,7 +38,7 @@ const products = [
         category: "internacional",
         price: 120000,
         image: "https://698522d3d75ce97092feb515.imgix.net/Espa%C3%B1a.jpeg",
-        description: "Camiseta del Manchester United con el clásico rojo del Old Trafford."
+        description: "Camiseta del España con el clásico rojo."
     },
     {
         id: 6,
@@ -46,7 +46,7 @@ const products = [
         category: "internacional",
         price: 120000,
         image: "https://698522d3d75ce97092feb515.imgix.net/Portugal.jpeg",
-        description: "Camiseta del Paris Saint-Germain con diseño azul marino y detalles rojos."
+        description: "Camiseta del Portugal con diseño Rojo fuerte y detalles verde."
     },
     {
         id: 7,
@@ -54,7 +54,7 @@ const products = [
         category: "internacional",
         price: 120000,
         image: "https://698522d3d75ce97092feb515.imgix.net/Argentina.jpeg",
-        description: "Camiseta de Argentina con las tres estrellas de campeón mundial."
+        description: "Camiseta de Argentina con su azul celeste, el campeón mundial."
     },
     {
         id: 8,
@@ -78,7 +78,7 @@ const products = [
         category: "internacional",
         price: 120000,
         image: "https://698522d3d75ce97092feb515.imgix.net/Alemania.jpeg",
-        description: "Camiseta del gigante bávaro, Bayern Munich con rojo intenso."
+        description: "Camiseta de la gigante Alemania."
     },
     {
         id: 11,
@@ -425,6 +425,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('Gala Sport loaded successfully!');
 
 });
+
 
 
 
