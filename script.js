@@ -5,7 +5,7 @@ const products = [
         name: "Camiseta Colombia Local Masculina 2026",
         category: "colombia",
         price: 100000,
-        image: "https://fenixdeportes.com.co/products/camiseta-colombia-mundial-2026",
+        image: "https://github.com/khernandezr2-ctrl/Gala-Sport/blob/main/1.jpeg",
         description: "Camiseta oficial de Colombia, diseño local con colores tradicionales amarillo, azul y rojo."
     },
     {
@@ -425,4 +425,5 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('Gala Sport loaded successfully!');
 
 });
+
 
