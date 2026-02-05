@@ -5,14 +5,14 @@ const products = [
         name: "Camiseta Colombia Local Masculina 2026",
         category: "colombia",
         price: 100000,
-        image: "https://github.com/khernandezr2-ctrl/Gala-Sport/blob/main/1.jpeg",
+        image: "1.jpeg",
         description: "Camiseta oficial de Colombia, diseño local con colores tradicionales amarillo, azul y rojo."
     },
     {
         id: 2,
         name: "Camiseta Colombia Local Femenina 2026",
         category: "colombia",
-        price: 10000,
+        price: 100000,
         image: "https://drive.google.com/file/d/1LnxTciLF43RzX_QoCbs03IP6dhzDnNGJ/view?usp=sharing",
         description: "Camiseta oficial de visitante, diseño moderno con detalles únicos."
     },
@@ -425,5 +425,6 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('Gala Sport loaded successfully!');
 
 });
+
 
 
