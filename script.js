@@ -13,7 +13,7 @@ const products = [
         name: "Camiseta Colombia Local Femenina 2026",
         category: "colombia",
         price: 100000,
-        image: "https://drive.google.com/file/d/1LnxTciLF43RzX_QoCbs03IP6dhzDnNGJ/view?usp=sharing",
+        image: "https://698522d3d75ce97092feb515.imgix.net/1.jpeg",
         description: "Camiseta oficial de visitante, diseño moderno con detalles únicos."
     },
     {
@@ -34,26 +34,26 @@ const products = [
     },
     {
         id: 5,
-        name: "Camiseta Manchester United",
+        name: "Camiseta España Local 2026",
         category: "internacional",
-        price: 239900,
-        image: "https://images.unsplash.com/photo-1522778526097-0a3828c60f89?w=400",
+        price: 120000,
+        image: "https://698522d3d75ce97092feb515.imgix.net/Espa%C3%B1a.jpeg",
         description: "Camiseta del Manchester United con el clásico rojo del Old Trafford."
     },
     {
         id: 6,
-        name: "Camiseta PSG Local",
+        name: "Camiseta Portugal Local 2026",
         category: "internacional",
-        price: 259900,
-        image: "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=400",
+        price: 120000,
+        image: "https://698522d3d75ce97092feb515.imgix.net/Portugal.jpeg",
         description: "Camiseta del Paris Saint-Germain con diseño azul marino y detalles rojos."
     },
     {
         id: 7,
-        name: "Camiseta Argentina Campeona",
+        name: "Camiseta Argentina Local 2026",
         category: "internacional",
-        price: 199900,
-        image: "https://images.unsplash.com/photo-1486286701208-1d58e9338013?w=400",
+        price: 120000,
+        image: "https://698522d3d75ce97092feb515.imgix.net/Argentina.jpeg",
         description: "Camiseta de Argentina con las tres estrellas de campeón mundial."
     },
     {
@@ -74,10 +74,10 @@ const products = [
     },
     {
         id: 10,
-        name: "Camiseta Bayern Munich",
+        name: "Camiseta Alemania Local 2026",
         category: "internacional",
-        price: 249900,
-        image: "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=400",
+        price: 120000,
+        image: "https://698522d3d75ce97092feb515.imgix.net/Alemania.jpeg",
         description: "Camiseta del gigante bávaro, Bayern Munich con rojo intenso."
     },
     {
@@ -425,6 +425,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('Gala Sport loaded successfully!');
 
 });
+
 
 
 
